@@ -1406,30 +1406,30 @@ body {
 .cid-qE6qi1fb8I .card-title {
   text-align: center;
 }
-.cid-qE6qEfXbBb {
+.cid-qNd378wDzQ {
   padding-top: 0px;
   padding-bottom: 105px;
   background-color: #f9f9f9;
 }
-.cid-qE6qEfXbBb h4 {
+.cid-qNd378wDzQ h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
 }
-.cid-qE6qEfXbBb p {
+.cid-qNd378wDzQ p {
   color: #767676;
   text-align: left;
 }
-.cid-qE6qEfXbBb .card-box {
+.cid-qNd378wDzQ .card-box {
   padding-top: 2rem;
 }
-.cid-qE6qEfXbBb .card-wrapper {
+.cid-qNd378wDzQ .card-wrapper {
   height: 100%;
 }
-.cid-qE6qEfXbBb P {
+.cid-qNd378wDzQ P {
   text-align: center;
 }
-.cid-qE6qEfXbBb .card-title {
+.cid-qNd378wDzQ .card-title {
   text-align: center;
 }
 .cid-qwHgSq3i1u .navbar {
@@ -1800,6 +1800,32 @@ body {
     flex-shrink: 0;
   }
 }
+.cid-qNd3UNADNl {
+  padding-top: 0px;
+  padding-bottom: 105px;
+  background-color: #f9f9f9;
+}
+.cid-qNd3UNADNl h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qNd3UNADNl p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qNd3UNADNl .card-box {
+  padding-top: 2rem;
+}
+.cid-qNd3UNADNl .card-wrapper {
+  height: 100%;
+}
+.cid-qNd3UNADNl P {
+  text-align: center;
+}
+.cid-qNd3UNADNl .card-title {
+  text-align: center;
+}
 .cid-qwHtAtU8Vp {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -1860,98 +1886,48 @@ body {
 .cid-qwHtAtU8Vp P {
   text-align: left;
 }
-.cid-qwI5Y1SyDJ {
-  padding-top: 60px;
-  padding-bottom: 0px;
+.cid-qNd59QHcc3 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qNd59QHcc3 .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qNd59QHcc3 .section-text {
+  padding: 2rem 0;
+}
+.cid-qNd59QHcc3 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qNd59QHcc3 .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qNd58Dh7uz {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #f9f9f9;
 }
-.cid-qwI5Y1SyDJ h2 {
-  text-align: center;
-}
-.cid-qwI5Y1SyDJ h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-qwI5Y1SyDJ p {
-  color: #767676;
-}
-.cid-qwI5Y1SyDJ .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-qwI5Y1SyDJ .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-qwI5Y1SyDJ .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-}
-.cid-qwI5Y1SyDJ .mbr-section-subtitle {
-  color: #767676;
-  text-align: right;
-}
-.cid-qwI5Y1SyDJ .card-title {
+.cid-qNd58Dh7uz h4 {
+  text-align: left;
   font-weight: 500;
 }
-.cid-qwI5Y1SyDJ .card-img {
-  text-align: inherit;
-}
-.cid-qwI5Y1SyDJ .card-img span {
-  font-size: 48px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-qwI5Y1SyDJ .mbr-figure {
-    padding-right: 2rem;
-    padding-left: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qwI5Y1SyDJ .mbr-figure {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-qwI5Y1SyDJ .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    padding-top: 1rem;
-  }
-  .cid-qwI5Y1SyDJ .block-content {
-    flex-direction: row;
-    -webkit-flex-direction: row;
-    text-align: center;
-  }
-  .cid-qwI5Y1SyDJ .block-content .card {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-  }
-}
-.cid-qwI5Y1SyDJ .mbr-section-text P {
-  text-align: right;
-}
-.cid-qwI5Y1SyDJ .mbr-crt-title P {
-  color: #cccccc;
-}
-.cid-qwI5Y1SyDJ .mbr-crt-title DIV {
+.cid-qNd58Dh7uz p {
+  color: #767676;
   text-align: left;
-  color: #767676;
 }
-.cid-qwI5Y1SyDJ .mbr-crt-title {
-  text-align: center;
-  color: #232323;
+.cid-qNd58Dh7uz .card-img {
+  text-align: left;
 }
-.cid-qwI5Y1SyDJ .mbr-crt-title I {
-  color: #767676;
-}
-.cid-qwI5Y1SyDJ P {
-  text-align: center;
+.cid-qNd58Dh7uz .card-img span {
+  font-size: 72px;
+  color: #707070;
 }
 .cid-qwHuWaRCNY {
   padding-top: 30px;
