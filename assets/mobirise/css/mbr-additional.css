@@ -2391,7 +2391,9 @@ body {
   width: 25px;
   height: 25px;
   border-radius: 50%;
-  border-radius: 0;
+  background: none;
+  border: 1px solid #149dcc;
+  color: #149dcc;
   content: '✓';
 }
 .cid-qN7A7IPZK0 {
@@ -3194,7 +3196,9 @@ body {
   width: 25px;
   height: 25px;
   border-radius: 50%;
-  border-radius: 0;
+  background: none;
+  border: 1px solid #149dcc;
+  color: #149dcc;
   content: '✓';
 }
 .cid-qNd59QHcc3 {
