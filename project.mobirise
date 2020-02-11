@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "gcocozza",
-    "currentPage": "index.html",
+    "currentPage": "index1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,7 +55,11 @@
         "name": "Open Sans",
         "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
       }
-    ]
+    ],
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "google-analytics": "<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-115158786-2\"></script>",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
